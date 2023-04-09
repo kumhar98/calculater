@@ -148,6 +148,7 @@ button.clear {
   </head>
   <body>
     <div class="calculator">
+      <h1 align="center">Calculater</h1>
       <div class="display">
         <input type="text" id="input" placeholder="0" readonly>
       </div>
